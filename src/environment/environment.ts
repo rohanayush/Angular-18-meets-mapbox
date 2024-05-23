@@ -1,3 +1,3 @@
 export const environment = {
-    token:'token code here',
+    token:'please put your token code here',
 }   
